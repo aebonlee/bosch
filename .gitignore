@@ -2,3 +2,7 @@ data/*.csv
 data/*.zip
 data/*.7z
 !data/*.7z.*
+data/*.csv
+data/*.zip
+data/*.7z
+!data/*.7z.*
