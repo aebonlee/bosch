@@ -1,0 +1,46 @@
+# Bosch Fault Detection - Required Dependencies
+
+# Core Data Science Libraries (필수)
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+
+# Visualization (권장)
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Imbalanced Data Handling (권장)
+imbalanced-learn>=0.9.0
+
+# High-Performance ML Models (선택사항)
+lightgbm>=3.3.0
+xgboost>=1.6.0
+
+# Deep Learning - PyTorch (선택사항 - 둘 중 하나만)
+torch>=1.12.0
+torchvision>=0.13.0
+
+# Deep Learning - TensorFlow (선택사항 - 둘 중 하나만)
+tensorflow>=2.9.0
+# tensorflow-gpu>=2.9.0  # GPU 사용 시
+
+# Hyperparameter Optimization (고급)
+optuna>=3.0.0
+bayesian-optimization>=1.4.0
+
+# MLOps and Monitoring (고급)
+mlflow>=2.0.0
+
+# Model Interpretation (고급)
+shap>=0.41.0
+
+# Progress Bars
+tqdm>=4.64.0
+
+# Jupyter Notebooks (분석용)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional Utilities
+scipy>=1.8.0
