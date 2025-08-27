@@ -487,7 +487,7 @@ MIT License - 자유롭게 사용, 수정, 배포 가능
 
 - GitHub Issues: 버그 리포트 및 기능 제안
 - Discussions: 질문 및 토론
-- Email: [your-email@example.com]
+- Email: 이애본 한신대학교 AI.SW대학 겸임교수 [aebon@hs.ac.kr]
 
 ---
 
